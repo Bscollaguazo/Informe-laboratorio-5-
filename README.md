@@ -85,6 +85,7 @@ CALCULO DE ERROR
 
 5. VIDEO
 
+https://youtu.be/lFM-_iGLJz8
 
 
 6. CONCLUSIONES
