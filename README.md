@@ -79,6 +79,8 @@ Hemos comprobado que los valores calculados y medidos tanto en el circuito de Th
 Comoo resultado tenemos que mediante el Teorema de Thevenin podemos obtener el valor mediante un redieño del circuito
 
 CALCULO DE ERROR 
+
+
 [![10.png](https://i.postimg.cc/xCQwkmyk/10.png)](https://postimg.cc/PL639P7h)
 
 5. VIDEO
