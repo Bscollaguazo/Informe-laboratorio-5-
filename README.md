@@ -88,9 +88,15 @@ CALCULO DE ERROR
 
 
 6. CONCLUSIONES
-Al realizar la practica hemos llegado a la conclusión de que al utilizar el teorema podemos trabajar con circutos con mas de una fuente de carga conectada a el. pues estos pueden ser separados y al momento de sumarlos se puede dar cuenta que ay una precisión muy grande entre ellos.
-Al final en las tablas de comparación se plasmaron los resultados y se obtuvo un porcentaje de error que en la mayoría de los parámetros fue satisfactorio, teniendo en cuenta los valores medidos.
-Se concluye que el teorema de superposición es válido, la tensión entre los extremos de un elemento en un circuito lineal es la suma algebraica de las tensiones a través de ese elemento debido a que cada fuente independiente actúa sola.
+
+Teorema de Thévenin nos ayuda y sirve para convertir un circuito complicado, que tenga dos terminales, en uno muy sencillo que contiene solo una fuente de tensión o voltaje (VTh) en serie con una resistencia (RTh).
+
+En un circuito al aplicar el teorema de Thévenin para calcular la resistencia se debe hacer un cortocircuito a las fuentes de voltaje y para las fuentes de corriente se debe reemplazar un circuito abierto.
+
+La aplicación del teorema de Thévenin se basa en el análisis del circuito con la finalidad de poder hallar el voltaje de circuito abierto luego cortocircuitando los terminales abiertos del VR.
+
+Como conclusión se puede apreciar que los resultados fueron buenos, ya que estos se aproximaron mucho, los pequeños porcentajes de error se deben a la carga de las baterias o a las variaciones que habia en el voltaje circulando en el circuito.
+
 7. BIBLIOGRAFÍA
 
 colaboradores de Wikipedia. (2022, 23 septiembre). Teorema de Thévenin. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Teorema_de_Th%C3%A9venin
