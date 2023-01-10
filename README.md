@@ -1,7 +1,6 @@
 # Informe-laboratorio-5
 
-Fundamento de circuitos Eléctricos
-Ing. Darwin Omar Alulema Flores
+
 
 1. OBJETIVOS
 Objetivo General
